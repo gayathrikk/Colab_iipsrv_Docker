@@ -9,10 +9,10 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Properties;
 
-public class ap7_iipsrv_docker {
+public class Colab_iipsrv_Docker{
 
     @Test(priority = 1)
-    public void ap7_iipsrv_Status() {
+    public void colab_iipsrv_Status() {
 
         String vmIpAddress = "192.168.10.5";
         String username = "hbp";
